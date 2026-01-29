@@ -1,3 +1,4 @@
+#just run this code in your vs code or any IDE :):)
 import pyautogui
 import time
 
